@@ -6,3 +6,4 @@
   - develop
   - feature/add-user
   - rebase tutorial
+  - release 
